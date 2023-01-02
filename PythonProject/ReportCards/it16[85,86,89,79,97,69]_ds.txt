@@ -1,0 +1,14 @@
+Name of the student : ds 
+Class Roll of the student : [85,86,89,79,97,69] 
+Stream of the student : it 
+Your Student ID is : it16[85,86,89,79,97,69]
+
+Marks obtained in Math is : 86 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 79 
+Marks obtained in Biology is : 97 
+Marks obtained in English is : 69 
+
+You have got 505 in total with 101%
+Excellent Performance... You have passed the exam with grade B.

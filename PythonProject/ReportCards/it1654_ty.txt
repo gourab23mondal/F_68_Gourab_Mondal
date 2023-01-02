@@ -1,0 +1,14 @@
+Name of the student : ty 
+Class Roll of the student : 54 
+Stream of the student : it 
+Your Student ID is : it1654
+
+Marks obtained in Math is : 74 
+Marks obtained in Python is : 75 
+Marks obtained in Physics is : 76 
+Marks obtained in Chemistry is : 75 
+Marks obtained in Biology is : 74 
+Marks obtained in English is : 72 
+
+You have got 446 in total with 89%
+Good Performance... You have passed the exam with grade C.

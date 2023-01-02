@@ -1,0 +1,14 @@
+Name of the student : ae 
+Class Roll of the student : 34 
+Stream of the student : cse 
+Your Student ID is : cse1334
+
+Marks obtained in Math is : 58 
+Marks obtained in Python is : 45 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : 53 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 75 
+
+You have got 391 in total with 65%
+You have passed the exam with grade D.

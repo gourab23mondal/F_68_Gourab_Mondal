@@ -1,0 +1,14 @@
+Name of the student : tr 
+Class Roll of the student : 65 
+Stream of the student : CSE 
+Your Student ID is : CSE1865
+
+Marks obtained in Math is : 85 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 84 
+Marks obtained in Chemistry is : 86 
+Marks obtained in Biology is : 84 
+Marks obtained in English is : 82 
+
+You have got 506 in total with 84%
+Excellent Performance... You have passed the exam with grade B.

@@ -1,0 +1,14 @@
+Name of the student : rf 
+Class Roll of the student : 85 
+Stream of the student : cseai 
+Your Student ID is : cseai1585
+
+Marks obtained in Math is : 74 
+Marks obtained in Python is : 96 
+Marks obtained in Physics is : 54 
+Marks obtained in Chemistry is : 97 
+Marks obtained in Biology is : 42 
+Marks obtained in English is : 31 
+
+You have got 394 in total with 65%
+Your performance is average... Work hard... You have passed the exam with grade D.

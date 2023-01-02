@@ -1,0 +1,14 @@
+Name of the student : sm 
+Class Roll of the student : 45 
+Stream of the student : cse 
+Your Student ID is : cse2445
+
+Marks obtained in Math is : 34 
+Marks obtained in Python is : 23 
+Marks obtained in Physics is : 45 
+Marks obtained in Chemistry is : 56 
+Marks obtained in Biology is : 67 
+Marks obtained in English is : 78 
+
+You have got 303 in total with 50%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

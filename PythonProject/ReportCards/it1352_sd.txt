@@ -1,0 +1,14 @@
+Name of the student : sd 
+Class Roll of the student : 52 
+Stream of the student : it 
+Your Student ID is : it1352
+
+Marks obtained in Math is : 63 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 26 
+Marks obtained in Chemistry is : 94 
+Marks obtained in Biology is : 76 
+Marks obtained in English is : 71 
+
+You have got 415 in total with 83%
+Your performance is average... Work hard... You have passed the exam with grade D.

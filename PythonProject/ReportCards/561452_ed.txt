@@ -1,0 +1,14 @@
+Name of the student : ed 
+Class Roll of the student : 52 
+Stream of the student : 56 
+Your Student ID is : 561452
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 99 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 99 
+
+You have got 594 in total with 594%
+Outstanding Performance... You have passed the exam with grade A.

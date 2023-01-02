@@ -1,0 +1,14 @@
+Name of the student : sm 
+Class Roll of the student : 23 
+Stream of the student : cse 
+Your Student ID is : cse1423
+
+Marks obtained in Math is : 54 
+Marks obtained in Python is : 78 
+Marks obtained in Physics is : 85 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 45 
+
+You have got 422 in total with 70%
+Good Performance... You have passed the exam with grade C.

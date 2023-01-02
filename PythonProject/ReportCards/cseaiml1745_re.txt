@@ -1,0 +1,14 @@
+Name of the student : re 
+Class Roll of the student : 45 
+Stream of the student : cseaiml 
+Your Student ID is : cseaiml1745
+
+Marks obtained in Math is : 63 
+Marks obtained in Python is : 84 
+Marks obtained in Physics is : 61 
+Marks obtained in Chemistry is : 94 
+Marks obtained in Biology is : 97 
+Marks obtained in English is : 54 
+
+You have got 453 in total with 75%
+Good Performance... You have passed the exam with grade C.
