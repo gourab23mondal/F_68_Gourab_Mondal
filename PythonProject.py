@@ -8,11 +8,9 @@ except:
     subprocess.run(['pip', 'install', 'matplotlib'])
     import matplotlib.pyplot as plt
 
-path='C:/PythonProgrammingProject_main-folder'
-print('-'*50)
+path='E:/PythonProject'
 
 
-#All the Functions used Throughout the code
     
 def createfile(name,lst):
     with open(f'{path}/{name}','a',newline='')as f:
